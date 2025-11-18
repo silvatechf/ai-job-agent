@@ -4,10 +4,10 @@
 
 Built with **Java Spring Boot** and **React**, this tool leverages **Google Gemini Pro (Vertex AI)** to analyze CVs (PDF) against specific job descriptions, providing actionable feedback to increase interview chances.
 
-![AI Job Agent Screenshot](./screenshot01.png)
+![AI Job Agent Screenshot](assets/screenshot01.png)
 
 
-![AI Job Agent Screenshot](./screenshot02.png)
+![AI Job Agent Screenshot](assets/screenshot02.png)
 
 
 ## 🚀 Features
@@ -45,5 +45,5 @@ Built with **Java Spring Boot** and **React**, this tool leverages **Google Gemi
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/SEU_USUARIO/ai-job-agent.git](https://github.com/SEU_USUARIO/ai-job-agent.git)
+git clone [https://github.com/silvatechf/ai-job-agent.git](https://github.com/silvatechf/ai-job-agent.git)
 cd ai-job-agent

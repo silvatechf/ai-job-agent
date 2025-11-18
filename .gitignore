@@ -1,0 +1,16 @@
+
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+target/
+.mvn/wrapper/maven-wrapper.properties
+
+backend/src/main/resources/application.properties
+
+
+node_modules/
+dist/
+.env
+.env.local
