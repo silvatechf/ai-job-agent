@@ -1,6 +1,6 @@
 # 💼 AI Job Agent
 
-**A Full-Stack AI Application designed to optimize job applications for the European Tech Market.**
+**A Full-Stack AI Application designed to optimize application documents and market alignment across all industries..**
 
 Built with **Java Spring Boot** and **React**, this tool leverages **Google Gemini Pro (Vertex AI)** to analyze CVs (PDF) against specific job descriptions, providing actionable feedback to increase interview chances.
 
